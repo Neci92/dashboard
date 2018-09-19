@@ -1,0 +1,26 @@
+.loader {
+  position: absolute;
+  top: 40%;
+  left: 47%;
+}
+
+.login {
+  margin-top: 100px;
+  margin-bottom: 300px;
+}
+
+.btn-extended {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+/* icon prefix focus color */
+  .input-field .prefix.active {
+    color: #FFF;
+  }
+
+.nav-wrapper {
+  padding-left: 1rem;
+}
